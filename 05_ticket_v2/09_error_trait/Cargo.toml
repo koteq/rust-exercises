@@ -5,4 +5,4 @@ edition = "2021"
 
 [dev-dependencies]
 static_assertions = "1.1.0"
-common = { path = "../../../helpers/common" }
+common = { path = "../../helpers/common" }

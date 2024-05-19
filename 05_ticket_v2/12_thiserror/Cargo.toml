@@ -6,4 +6,4 @@ edition = "2021"
 [dependencies]
 
 [dev-dependencies]
-common = { path = "../../../helpers/common" }
+common = { path = "../../helpers/common" }

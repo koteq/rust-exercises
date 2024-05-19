@@ -1,10 +1,8 @@
 [package]
-name = "source"
+name = "ticket_fields"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 thiserror = "1.0.59"
-
-[dev-dependencies]
-common = { path = "../../helpers/common" }
+common = { path = "../common" }
